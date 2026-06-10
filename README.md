@@ -1,16 +1,57 @@
-## Hi there 👋
+# Akshit
 
-<!--
-**AkshitOG/AkshitOG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Building Systems. Exploring Intelligence.
 
-Here are some ideas to get you started:
+Backend engineering and artificial intelligence are the areas that currently interest me the most.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy understanding how systems work, solving complex problems, and building software that is reliable, efficient, and useful.
+
+## Current Focus
+
+- Backend Engineering
+- Artificial Intelligence
+- Data Structures & Algorithms
+- System Design
+
+## Tech Stack
+
+### Languages
+Python • C • C++ • SQL • JavaScript
+
+### Frontend
+HTML • CSS • JavaScript
+
+### Backend
+FastAPI • Django • Flask
+
+### Databases
+SQL Server • MySQL
+
+### Tools
+Git • GitHub • Docker
+
+## Featured Projects
+
+🔹 **Banao** — A C++ CLI tool that scaffolds Flask and FastAPI projects with a production-ready structure
+
+🔹 **Leave Management System** — Backend application for employee leave requests, approvals, and management
+
+🔹 **Face Recognition Attendance System** — Automated attendance tracking using computer vision
+
+## Philosophy
+
+> Build deeply. Learn continuously. Stay curious.
+
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=600&lines=Backend+Engineering;Artificial+Intelligence;Building+Systems;Always+Learning" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true" />
+</p>
