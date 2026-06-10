@@ -1,4 +1,3 @@
-````markdown
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&text=Akshit&fontSize=50&fontAlignY=35&animation=fadeIn"/>
 
 <h3 align="center">Building Systems. Exploring Intelligence.</h3>
@@ -23,13 +22,13 @@ Currently building backend applications, developer tools, and AI-powered project
 
 ## Current Missions
 
-🛠️ **Banao**  
+🛠️ **Banao**
 A C++ CLI tool that scaffolds Flask and FastAPI projects.
 
-📋 **Leave Management System**  
+📋 **Leave Management System**
 Backend application for leave requests and approvals.
 
-🎯 **Face Recognition Attendance System**  
+🎯 **Face Recognition Attendance System**
 Attendance automation using computer vision.
 
 ---
@@ -63,7 +62,7 @@ Next Objectives
 [○] AI Agents
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━
-````
+```
 
 ---
 
@@ -115,4 +114,3 @@ I enjoy strategy, pattern recognition, and long-term thinking—both in chess an
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer"/>
-```
