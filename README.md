@@ -1,3 +1,4 @@
+````markdown
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&text=Akshit&fontSize=50&fontAlignY=35&animation=fadeIn"/>
 
 <h3 align="center">Building Systems. Exploring Intelligence.</h3>
@@ -22,14 +23,47 @@ Currently building backend applications, developer tools, and AI-powered project
 
 ## Current Missions
 
-🛠️ **Banao**
+🛠️ **Banao**  
 A C++ CLI tool that scaffolds Flask and FastAPI projects.
 
-📋 **Leave Management System**
+📋 **Leave Management System**  
 Backend application for leave requests and approvals.
 
-🎯 **Face Recognition Attendance System**
+🎯 **Face Recognition Attendance System**  
 Attendance automation using computer vision.
+
+---
+
+## Current Quest
+
+```text
+━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Current Quest
+─────────────
+
+[✓] Build Banao
+[✓] Face Recognition Attendance System
+[◉] Leave Management System
+
+Learning Path
+─────────────
+
+[◉] Machine Learning (Scratch → Intermediate)
+[◉] Neural Networks
+[◉] Django
+[◉] Backend Architecture
+[◉] System Design
+
+Next Objectives
+───────────────
+
+[○] Advanced AI Engineering
+[○] Production-Grade Backend Systems
+[○] AI Agents
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━
+````
 
 ---
 
@@ -56,6 +90,18 @@ Akshit@github:~$ _
 
 ---
 
+## Beyond Code
+
+♟️ Chess Enthusiast
+
+I enjoy strategy, pattern recognition, and long-term thinking—both in chess and software engineering.
+
+---
+
+> "Complexity is earned. Simplicity is engineered."
+
+---
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AkshitOG&show_icons=true&hide_border=true" />
 </p>
@@ -69,3 +115,4 @@ Akshit@github:~$ _
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer"/>
+```
