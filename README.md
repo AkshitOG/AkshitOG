@@ -10,37 +10,51 @@
   <img src="https://skillicons.dev/icons?i=python,c,cpp,js,html,css,flask,django,fastapi,mysql,git,docker" />
 </p>
 
+---
+
 ## About
 
 Interested in systems, intelligence, and the engineering behind them.
 
 Currently building backend applications, developer tools, and AI-powered projects.
 
+---
+
 ## Current Missions
 
-🛠️ **Banao**  
+🛠️ **Banao**
 A C++ CLI tool that scaffolds Flask and FastAPI projects.
 
-📋 **Leave Management System**  
+📋 **Leave Management System**
 Backend application for leave requests and approvals.
 
-🎯 **Face Recognition Attendance System**  
+🎯 **Face Recognition Attendance System**
 Attendance automation using computer vision.
+
+---
 
 ## Terminal
 
-```bash
-$ whoami
+```console
+Akshit@github:~$ whoami
 Akshit
 
-$ focus
+Akshit@github:~$ ls projects
+
+Banao/
+LeaveManagementSystem/
+FaceRecognitionAttendance/
+
+Akshit@github:~$ echo $FOCUS
+
 Backend Engineering
 Artificial Intelligence
 Systems Design
 
-$ status
-Building...
+Akshit@github:~$ _
 ```
+
+---
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AkshitOG&show_icons=true&hide_border=true" />
