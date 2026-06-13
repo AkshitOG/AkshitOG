@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,js,html,css,flask,django,fastapi,mysql,git,docker,anaconda,vscode,github,sqlite" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,html,css,python,flask,django,fastapi,mysql,sqlite,sklearn,anaconda,vscode,git,docker,github" />
 </p>
 
 ---
