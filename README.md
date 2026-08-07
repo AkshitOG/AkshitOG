@@ -14,6 +14,12 @@
 
 ## About
 
+<div align="center">
+  <a href="https://akshitsaxena.netlify.app">
+    <img src="https://img.shields.io/badge/🌐_Visit_My_Website-akshitsaxena.netlify.app-181717?style=for-the-badge" alt="Visit My Website">
+  </a>
+</div>
+
 Interested in systems, intelligence, and the engineering behind them.
 
 Currently building backend applications, developer tools, and AI-powered projects.
