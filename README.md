@@ -22,8 +22,8 @@ Currently building backend applications, developer tools, and AI-powered project
 
 ## Current Missions
 
-🛠️ **Banao**
-A C++ CLI tool that scaffolds Flask and FastAPI projects.
+🛠️ **LogScope**
+A Java-based CLI tool for analyzing, filtering, and visualizing application logs.
 
 📋 **Leave Management System**
 Backend application for leave requests and approvals.
