@@ -25,7 +25,7 @@ Currently building backend applications, developer tools, and AI-powered project
 🛠️ **LogScope**
 A Java-based CLI tool for analyzing, filtering, and visualizing application logs.
 
-🎯 **Competitive Coding (CodeChef)**
+🎯 **Competitive Coding (CodeForces)**
 
 ---
 
