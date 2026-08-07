@@ -43,8 +43,8 @@ Current Quest
 
 [✓] Build Banao
 [✓] Face Recognition Attendance System
-[◉] Leave Management System
-
+[✓]Leave Management System
+[◉] LogScope
 Learning Path
 ─────────────
 
