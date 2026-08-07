@@ -25,11 +25,7 @@ Currently building backend applications, developer tools, and AI-powered project
 🛠️ **LogScope**
 A Java-based CLI tool for analyzing, filtering, and visualizing application logs.
 
-📋 **Leave Management System**
-Backend application for leave requests and approvals.
-
-🎯 **Face Recognition Attendance System**
-Attendance automation using computer vision.
+🎯 **Competitive Coding (CodeChef)**
 
 ---
 
